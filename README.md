@@ -1,4 +1,11 @@
-usuarios
-========
+##usuarios
 
-gestión de usuarios
+Gestión de usuarios
+
+###tablas
+
+**usuario:**
+
+	id		int
+  
+###uso
